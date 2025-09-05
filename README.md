@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Farzeen+Ali+👨🏻‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Fahad Iqbal+👨🏻‍💻;" />
 </h1>
 
 <h2 align="center">A Passionate Software Engineer  From India💻🎥
@@ -38,14 +38,14 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=farzeen-ali&show_icons=true&theme=midnight-purple" alt="Farzeen's GitHub Stats" height="200px" />
+<!--         <img src="https://github-readme-stats.vercel.app/api?username=farzeen-ali&show_icons=true&theme=midnight-purple" alt="Farzeen's GitHub Stats" height="200px" /> -->
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzeen-ali&layout=compact&theme=midnight-purple" alt="Farzeen's Top Languages" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzeen-ali&layout=compact&theme=midnight-purple" alt="Fahad's Top Languages" height="200px" />
       </td>
     </tr>
   </table>
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farzeen-ali&layout=compact&theme=midnight-purple" alt="farzeen-ali" /> -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farzeen-ali&theme=react-dark&bg_color=000000&color=7e15f7&line=7e15f7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
 
 </p>
